@@ -1,4 +1,4 @@
-package com.minsunny.lux;
+package com.minsunny;
 
 import org.junit.jupiter.api.Test;
 import org.postgresql.PGStatement;
